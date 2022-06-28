@@ -6,7 +6,7 @@ import {
   navLinks,
   navLinkItem,
   navLinkText,
-} from "./layout.module.css";
+} from "./Layout.module.css";
 
 function Layout({ pageTitle, children }) {
   return (
